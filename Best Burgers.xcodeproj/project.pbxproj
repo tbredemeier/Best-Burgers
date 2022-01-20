@@ -11,6 +11,7 @@
 		A2CEAA7E2799C29400E6D139 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2CEAA7D2799C29400E6D139 /* ContentView.swift */; };
 		A2CEAA802799C29700E6D139 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2CEAA7F2799C29700E6D139 /* Assets.xcassets */; };
 		A2CEAA832799C29700E6D139 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2CEAA822799C29700E6D139 /* Preview Assets.xcassets */; };
+		A2CEAA8A2799C72B00E6D139 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2CEAA892799C72B00E6D139 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A2CEAA7D2799C29400E6D139 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A2CEAA7F2799C29700E6D139 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2CEAA822799C29700E6D139 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A2CEAA892799C72B00E6D139 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A2CEAA7B2799C29400E6D139 /* Best_BurgersApp.swift */,
 				A2CEAA7D2799C29400E6D139 /* ContentView.swift */,
+				A2CEAA892799C72B00E6D139 /* SwiftyJSON.swift */,
 				A2CEAA7F2799C29700E6D139 /* Assets.xcassets */,
 				A2CEAA812799C29700E6D139 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2CEAA8A2799C72B00E6D139 /* SwiftyJSON.swift in Sources */,
 				A2CEAA7E2799C29400E6D139 /* ContentView.swift in Sources */,
 				A2CEAA7C2799C29400E6D139 /* Best_BurgersApp.swift in Sources */,
 			);
